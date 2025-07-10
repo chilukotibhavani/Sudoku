@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\SudokuGameApp\\SudokuGameApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SudokuGameApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SudokuGameApp.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\SudokuGameApp\\SudokuGameApp\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SudokuGameApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SudokuGameApp.props",
+      "PackagePath": "build\\SudokuGameApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SudokuGameApp.props",
+      "PackagePath": "buildMultiTargeting\\SudokuGameApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SudokuGameApp.props",
+      "PackagePath": "buildTransitive\\SudokuGameApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
